@@ -1,6 +1,6 @@
 * Name: RFC Template
 * Start Date: 2023-10-20
-* RFC PR: xxxx
+* RFC PR: https://github.com/web-infra-dev/rfcs/pull/1
   
 # Summary
 One sentence/paragraph explanation of the RFC, i.e. What's being proposed?
